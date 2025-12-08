@@ -158,10 +158,10 @@ timeline
          : Lógica de Programação
     2023 : Certificações Web Development
          : UX Design
-    2024 : Bacharelado Engenharia de Software
-         : Imersão Google Gemini
+    2024 : Imersão Google Gemini
          : Certificações Alura
-    2025 : Estágio em TI - Cidade Júnior
+    2025 : Bacharelado Engenharia de Software
+          : Estágio em TI - Cidade Júnior
          : React & TypeScript
          : Bootcamp Santander
          : Imersão Python
