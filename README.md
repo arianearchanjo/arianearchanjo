@@ -2,113 +2,175 @@
 
 # Ariane Archanjo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Building+Digital+Experiences;Software+Engineering+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Engenharia+de+Software;Desenvolvimento+Full-Stack;Banco+de+Dados+%26+SQL;Infraestrutura+e+TI" alt="Typing SVG" />
 
 ```
-Transforming ideas into intuitive interfaces
-Curitiba, PR • 18 years old
+Desenvolvendo soluções tecnológicas completas
+Curitiba, PR • 19 anos
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18,14,12&height=80&section=header" />
 
 </div>
 
-## About Me
+## 👩‍💻 Sobre Mim
 
 ```typescript
 const developer = {
   name: "Ariane Archanjo",
-  role: "Front-End Developer & IT Intern",
+  role: "Software Engineering Student & IT Intern",
   education: "Software Engineering @ UniBrasil",
-  location: "Brazil",
-  focus: ["Web Development", "UX Design", "Clean Code"],
-  currentlyLearning: ["React", "TypeScript", "Design Systems"],
-  philosophy: "User experience is everything"
+  location: "Curitiba, PR - Brazil",
+  areas: [
+    "Software Development", 
+    "Databases", 
+    "Infrastructure", 
+    "Systems Analysis"
+  ],
+  technologies: [
+    "HTML", "CSS", "JavaScript", 
+    "React", "Angular", "TypeScript",
+    "SQL", "PostgreSQL", "C", "C#"
+  ],
+  currentlyLearning: [
+    "Software Architecture", 
+    "Scalable Solutions", 
+    "UI/UX Design"
+  ],
+  seeking: "Oportunidades de estágio em Tecnologia"
 };
 ```
 
-Currently working as IT Intern at Cidade Júnior, where I develop web interfaces, maintain databases, and contribute to system improvements. My focus is on creating digital experiences that are both functional and beautiful.
+Estagiária de TI na Cidade Júnior, com experiência prática em **desenvolvimento de software**, **banco de dados** e **manutenção de sistemas**. Trabalho com desenvolvimento Front-End, integração de APIs, criação e análise de consultas SQL, documentação técnica e suporte a equipes de desenvolvimento.
 
-## Tech Stack
+🎯 **Busco oportunidades de estágio em Tecnologia** nas áreas de desenvolvimento de software, banco de dados, infraestrutura, análise de sistemas ou outras áreas relacionadas a TI.
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Core Technologies
+### Tecnologias Principais
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,cs,sql&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,typescript,git,github,postgresql&perline=5" />
 
 <br/><br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-## What I'm Working On
+## 💼 Áreas de Atuação
 
 <table>
 <tr>
 <td width="50%">
 
-### Front-End
+### Front-End Development
 
 ```css
 .skills {
   languages: HTML5, CSS3, JavaScript;
-  focus: responsive-design, accessibility;
-  tools: VSCode, Git, Figma;
-  learning: React, TypeScript;
+  frameworks: React, Angular;
+  tools: TypeScript, Figma;
+  focus: responsive-design, 
+         UI/UX, accessibility;
 }
 ```
 
-Building semantic, responsive interfaces with clean code and attention to user experience.
+Desenvolvimento de interfaces responsivas e intuitivas com código limpo e atenção à experiência do usuário.
 
 </td>
 <td width="50%">
 
-### Backend & Tools
+### Backend & Database
 
 ```javascript
 const experience = {
-  backend: ["C#", "SQL", "Database Management"],
-  tools: ["Git", "VSCode", "Figma"],
-  concepts: ["OOP", "Clean Code", "Algorithms"],
-  practices: ["Version Control", "Problem Solving"]
+  databases: ["PostgreSQL", "SQL"],
+  backend: ["C#", "API Integration"],
+  practices: [
+    "Query Optimization",
+    "Database Maintenance",
+    "System Documentation"
+  ]
 };
 ```
 
-Working with databases, system integration, and backend logic to build complete solutions.
+Trabalho com bancos de dados, consultas SQL, integração de sistemas e manutenção de aplicações.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Infrastructure & Tools
+
+```python
+tools = {
+    'version_control': ['Git', 'GitHub'],
+    'methodologies': ['Scrum', 'Agile'],
+    'practices': ['Code Review', 'Documentation']
+}
+```
+
+Experiência com versionamento de código, metodologias ágeis e boas práticas de desenvolvimento.
+
+</td>
+<td width="50%">
+
+### Systems Analysis
+
+```sql
+-- Database Queries & Analysis
+SELECT skill, experience_level
+FROM technical_skills
+WHERE area IN (
+  'System Maintenance',
+  'Technical Documentation',
+  'Requirements Analysis'
+);
+```
+
+Análise de sistemas, documentação técnica e suporte ao desenvolvimento de soluções escaláveis.
 
 </td>
 </tr>
 </table>
 
-## Learning Path
+## 📈 Jornada de Aprendizado
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#a855f7','primaryTextColor':'#fff','primaryBorderColor':'#7c3aed','lineColor':'#8b5cf6','secondaryColor':'#9333ea','tertiaryColor':'#fff'}}}%%
 timeline
-    title My Development Journey
-    2022 : HTML & CSS Foundations
-         : Programming Logic
-    2024 : Software Engineering Degree
-         : Web Development Fundamentals
-         : Google Gemini Immersion
-    2025 : IT Internship
-         : UX Design Course
-         : JavaScript & Algorithms
-         : Santander Bootcamp
-    Future : React & TypeScript
-           : Full Stack Projects
-           : Open Source Contribution
+    title Minha Jornada em Tecnologia
+    2022 : Fundamentos HTML & CSS
+         : Lógica de Programação
+    2023 : Certificações Web Development
+         : UX Design
+    2024 : Bacharelado Engenharia de Software
+         : Imersão Google Gemini
+         : Certificações Alura
+    2025 : Estágio em TI - Cidade Júnior
+         : React & TypeScript
+         : Bootcamp Santander
+         : Imersão Python
+    Futuro : Arquitetura de Software
+           : Projetos Full Stack
+           : Contribuições Open Source
 ```
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arianearchanjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
@@ -121,40 +183,94 @@ timeline
 
 </div>
 
-## Experience Highlights
+## 💼 Experiência Profissional
 
-**IT Intern @ Cidade Júnior** • May 2025 - Present
+**Estagiária de TI @ Cidade Júnior** • Maio 2025 - Dezembro 2025
 
-Working on full-stack development with emphasis on front-end, database management, and system optimization. Contributing to financial module improvements and providing technical support.
+Atuação com foco em banco de dados e apoio ao desenvolvimento de sistemas, incluindo:
 
-**Key Projects & Achievements**
-- System interface development and optimization
-- Database queries and maintenance
-- Financial module process improvements
-- Technical problem-solving and support
+- 🔍 Manutenção de rotinas internas e sistemas
+- 💾 Criação e análise de consultas SQL (PostgreSQL)
+- 📝 Documentação técnica de processos e sistemas
+- 🤝 Suporte às demandas da equipe de desenvolvimento
+- ⚙️ Contribuição para estabilidade e evolução dos sistemas
 
-## Education & Certifications
+## 🎓 Formação Acadêmica
 
-**Software Engineering** • UniBrasil • 2024-2028
+**Bacharelado em Engenharia de Software**  
+UniBrasil Centro Universitário • Março 2025 - Dezembro 2028
 
-**Selected Certifications** (400+ hours)
-- Santander Front-End Bootcamp (DIO)
-- UX Design (Alura + Santander)
-- Web Development Fundamentals (IBM SkillsBuild)
-- JavaScript & Algorithms (Curso em Vídeo)
-- HTML5 & CSS3 (Alura, Curso em Vídeo)
-- Technology Administration (182h)
+**Capacitação Profissional em Administração com ênfase em Tecnologia**  
+Universidade Positivo • Dezembro 2023 - Outubro 2025
 
-## Notable Achievements
+### Certificações Principais (400+ horas)
 
-| Year | Achievement |
-|:-----|:------------|
-| 2019, 2022, 2023 | OBMEP - Honorable Mentions |
-| 2025 | Class Representative - Software Engineering |
-| 2024 | Google Gemini Dev Immersion (Alura) |
-| 2025 | Data Immersion with Python (Alura) |
+- ✅ Bootcamp Front-End - Santander + DIO
+- ✅ UX Design - Alura + Santander  
+- ✅ Fundamentos de Desenvolvimento Web - IBM SkillsBuild
+- ✅ JavaScript & Algoritmos - Curso em Vídeo
+- ✅ HTML5 & CSS3 Avançado - Alura
+- ✅ Versionamento de Código com Git e GitHub
+- ✅ Administração em Tecnologia (182h)
 
-## Let's Connect
+## 🏆 Conquistas & Reconhecimentos
+
+<table align="center">
+<tr>
+<td align="center">
+
+**🥉 OBMEP**  
+Menções Honrosas  
+2019, 2022, 2023
+
+</td>
+<td align="center">
+
+**👥 Representante de Turma**  
+Engenharia de Software  
+2025
+
+</td>
+<td align="center">
+
+**🤖 Imersões Tech**  
+Google Gemini (2024)  
+Python & Data (2025)
+
+</td>
+</tr>
+</table>
+
+## 🎯 Áreas de Interesse para Estágio
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#a855f7','primaryTextColor':'#fff','primaryBorderColor':'#7c3aed'}}}%%
+mindmap
+  root((Oportunidades<br/>em TI))
+    Desenvolvimento
+      Front-End
+      Back-End
+      Full-Stack
+      Mobile
+    Dados
+      Banco de Dados
+      SQL/NoSQL
+      Data Analysis
+    Infraestrutura
+      DevOps
+      Cloud
+      Suporte Técnico
+    Sistemas
+      Análise de Sistemas
+      Arquitetura
+      Integração
+```
+
+</div>
+
+## 📫 Vamos Conectar?
 
 <div align="center">
 
@@ -164,11 +280,11 @@ Working on full-stack development with emphasis on front-end, database managemen
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arianearchanjo&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=arianearchanjo&label=Visualizações+do+Perfil&color=a855f7&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
-*"Clean code, great design, amazing experiences"*
+### 💡 *"Código limpo, soluções eficientes, aprendizado constante"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18,14,12&height=80&section=footer" />
 
