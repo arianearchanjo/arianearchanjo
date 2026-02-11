@@ -7,17 +7,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=01001100+01001111+01000111+01001001+01000011+%E2%96%B8+01000011+01001111+01000100+01000101;Construindo+sistemas+escal%C3%A1veis;Resolvendo+problemas+complexos" alt="Tech Banner" />
 </div>
-
-<!-- TYPING TECH EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=%3E_+Desenvolvendo+solu%C3%A7%C3%B5es+de+software+escal%C3%A1veis;%3E_+Full+Stack+%7C+L%C3%B3gica+%7C+Performance;%3E_+Arquitetura+limpa+%2B+Melhores+pr%C3%A1ticas" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 **ESTAGIÁRIA FRONT-END** | **ESTUDANTE DE ENGENHARIA DE SOFTWARE**
 </div>
 
 ---
