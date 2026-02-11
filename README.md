@@ -1,20 +1,15 @@
 <div align="center">
-
+  
 <!-- HEADER TECH MODERNO EM ROXO -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&text=ARIANE%20ARCHANJO&fontSize=55&fontColor=9400D3&fontAlignY=40&desc=Engenharia%20de%20Software%20%7C%20Estagi%C3%A1ria%20Front-End&descAlignY=60&descSize=20&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=ARIANE%20ARCHANJO&fontSize=38&fontColor=9400D3&fontAlignY=45&desc=Engenharia%20de%20Software%20%7C%20Estagi%C3%A1ria%20Front-End&descAlignY=65&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- BANNER TECH COM CÓDIGO BINÁRIO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=01001100+01001111+01000111+01001001+01000011+%E2%96%B8+01000011+01001111+01000100+01000101+%E2%96%B8+01010011+01001111+01001100+01010101+01010100+01001001+01001111+01001110+01010011;Construindo+sistemas+escal%C3%A1veis+%E2%96%B8+Resolvendo+problemas+complexos+%E2%96%B8+Escrevendo+c%C3%B3digo+limpo" alt="Tech Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=01001100+01001111+01000111+01001001+01000011+%E2%96%B8+01000011+01001111+01000100+01000101;Construindo+sistemas+escal%C3%A1veis;Resolvendo+problemas+complexos" alt="Tech Banner" />
 </div>
 
 <!-- TYPING TECH EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%3E_+Desenvolvendo+solu%C3%A7%C3%B5es+de+software+escal%C3%A1veis;%3E_+Full+Stack+%7C+L%C3%B3gica+%7C+Performance;%3E_+Construindo+o+futuro+com+c%C3%B3digo;%3E_+Arquitetura+limpa+%2B+Melhores+pr%C3%A1ticas" alt="Typing SVG" />
-
-<br>
-
-<!-- PROFILE VIEWS COUNTER ROXO -->
-<img src="https://komarev.com/ghpvc/?username=ariane-archanjo&color=9400D3&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=%3E_+Desenvolvendo+solu%C3%A7%C3%B5es+de+software+escal%C3%A1veis;%3E_+Full+Stack+%7C+L%C3%B3gica+%7C+Performance;%3E_+Arquitetura+limpa+%2B+Melhores+pr%C3%A1ticas" alt="Typing SVG" />
 
 </div>
 
@@ -237,6 +232,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9400D3)](mailto:ariane.archanjo1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9400D3?style=for-the-badge&logo=About.me&logoColor=white&color=4B0082)](https://seu-portfolio.com)
 
+
+<!-- PROFILE VIEWS COUNTER ROXO -->
+<img src="https://komarev.com/ghpvc/?username=ariane-archanjo&color=9400D3&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" alt="Profile views"/>
 </div>
 
 ---
