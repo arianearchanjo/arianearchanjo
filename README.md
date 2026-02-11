@@ -1,250 +1,300 @@
 <div align="center">
 
-# Ariane Archanjo
+<!-- HEADER TECH MODERNO EM ROXO -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&text=ARIANE%20ARCHANJO&fontSize=55&fontColor=9400D3&fontAlignY=40&desc=Engenharia%20de%20Software%20%7C%20Estagi%C3%A1ria%20Front-End&descAlignY=60&descSize=20&descAlign=50&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Engenharia+de+Software;Desenvolvimento+de+Software;Banco+de+Dados+%26+SQL;Estagiária+em+TI" alt="Typing SVG" />
+<!-- BANNER TECH COM CÓDIGO BINÁRIO -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=01001100+01001111+01000111+01001001+01000011+%E2%96%B8+01000011+01001111+01000100+01000101+%E2%96%B8+01010011+01001111+01001100+01010101+01010100+01001001+01001111+01001110+01010011;Construindo+sistemas+escal%C3%A1veis+%E2%96%B8+Resolvendo+problemas+complexos+%E2%96%B8+Escrevendo+c%C3%B3digo+limpo" alt="Tech Banner" />
+</div>
 
-```
-Estudante em busca de estágio em tecnologia
-Curitiba, PR • 19 anos
-```
+<!-- TYPING TECH EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%3E_+Desenvolvendo+solu%C3%A7%C3%B5es+de+software+escal%C3%A1veis;%3E_+Full+Stack+%7C+L%C3%B3gica+%7C+Performance;%3E_+Construindo+o+futuro+com+c%C3%B3digo;%3E_+Arquitetura+limpa+%2B+Melhores+pr%C3%A1ticas" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18,14,12&height=80&section=header" />
+<br>
+
+<!-- PROFILE VIEWS COUNTER ROXO -->
+<img src="https://komarev.com/ghpvc/?username=ariane-archanjo&color=9400D3&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" alt="Profile views"/>
 
 </div>
 
-## 👋 Sobre Mim
-
-```typescript
-const developer = {
-  name: "Ariane Archanjo",
-  role: "Estudante de Engenharia de Software",
-  education: "Engenharia de Software @ UniBrasil",
-  location: "Campina Grande do Sul, PR - Brazil",
-  experience: "Estagiária de TI @ Cidade Júnior",
-  areas: [
-    "Desenvolvimento Front-end", 
-    "Banco de Dados", 
-    "Suporte a Sistemas"
-  ],
-  technologies: [
-    "HTML", "CSS", "JavaScript", "React",
-    "C", "C#", "SQL", "PostgreSQL",
-    "Git", "GitHub"
-  ],
-  currentlyLearning: ["Python", "Estruturas de Dados"],
-  seeking: "Oportunidades de estágio em Tecnologia"
-};
-```
-
-Sou estudante de **Engenharia de Software** e estou em busca de oportunidades de **estágio em tecnologia** onde eu possa aplicar o que aprendi, evoluir tecnicamente e contribuir com projetos reais.
-
-Tenho experiência prática com **desenvolvimento front-end**, **banco de dados** e **suporte a sistemas**. Gosto de resolver problemas com lógica e código, e aprendo rápido quando tenho um objetivo claro.
-
-🎯 **Busco oportunidades de estágio** nas áreas de desenvolvimento de software, banco de dados ou outras áreas relacionadas a TI, onde eu possa aprender com profissionais experientes e contribuir desde o primeiro dia.
-
-## 🛠️ Tecnologias e Ferramentas
+---
 
 <div align="center">
 
-### Stack Técnico
+### 💻 **ESTAGIÁRIA FRONT-END** | **ESTUDANTE DE ENGENHARIA DE SOFTWARE**
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,c,cs,postgresql,git,github&perline=5" />
+---
 
-<br/><br/>
+## 🎯 SOBRE MIM
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Estudante de Engenharia de Software** (3º semestre) com experiência em **desenvolvimento front-end** e forte aptidão para **lógica de programação**. Atualmente estagiando em projetos municipais com React, JavaScript HTML e CSS, com vivência anterior em desenvolvimento de sistemas internos e banco de dados PostgreSQL.
+
+**Minha abordagem:** Código limpo, performance otimizada e soluções escaláveis através de engenharia sólida e pensamento analítico.
+
+**Foco atual:** Desenvolvimento Front-End com React e JavaScript, aprimorando habilidades em interfaces responsivas e experiência do usuário.
+
+---
+
+<div align="center">
+
+<!-- SEPARADOR TECH ROXO -->
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="2" fill="url(#grad1)" y="9"/>
+  <rect width="30" height="6" fill="#9400D3" x="calc(50% - 15)" y="7" rx="3">
+    <animate attributeName="width" values="30;50;30" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 </div>
 
-## 💡 Como Eu Trabalho e Aprendo
-
-<table>
-<tr>
-<td width="50%">
-
-### Organização
-
-```javascript
-const workStyle = {
-  code: "limpo e documentado",
-  versionControl: "Git e GitHub",
-  focus: "entender o contexto",
-  approach: "resolver por partes"
-};
-```
-
-Gosto de manter código organizado, versionado corretamente e bem estruturado.
-
-</td>
-<td width="50%">
-
-### Aprendizado Prático
-
-```python
-learning = {
-    'method': 'fazendo projetos',
-    'mindset': 'constância e foco',
-    'skills': [
-        'raciocínio lógico',
-        'resolução de problemas',
-        'aprendizado rápido'
-    ]
-}
-```
-
-Aprendo melhor colocando a mão na massa e resolvendo problemas reais.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Responsabilidade
-
-```sql
-SELECT competencia 
-FROM soft_skills
-WHERE tipo IN (
-  'cumprimento de prazos',
-  'busca por contexto',
-  'disposição para aprender'
-);
-```
-
-Busco entender as tarefas, cumprir prazos e pedir ajuda quando necessário.
-
-</td>
-<td width="50%">
-
-### Pensamento Lógico
-
-```css
-.problem-solving {
-  approach: break-down-complexity;
-  method: step-by-step;
-  focus: logical-reasoning;
-  result: clean-solutions;
-}
-```
-
-Facilidade para quebrar problemas complexos em partes menores e resolvê-los.
-
-</td>
-</tr>
-</table>
-
-## 💼 Experiência Profissional
-
-**Estagiária de TI @ Cidade Júnior** • Maio 2025 - Dezembro 2025
-
-Atuação com foco em banco de dados e apoio ao desenvolvimento de sistemas:
-
-- 💾 Criação, análise e manutenção de consultas SQL em PostgreSQL
-- ⚙️ Apoio ao desenvolvimento e manutenção de sistemas internos
-- 📝 Elaboração de documentação técnica para rotinas e processos de TI
-- 🤝 Suporte às demandas da equipe de desenvolvimento
-- 🔧 Utilização de Git e GitHub para versionamento de código
-- 🎯 Contribuição para a estabilidade dos sistemas
-
-## 📂 Sobre Meus Projetos
-
-Os repositórios aqui representam minha jornada de aprendizado em desenvolvimento de software. Cada projeto tem um propósito claro: aplicar conceitos de programação, testar tecnologias ou resolver problemas de forma prática.
-
-Alguns foram desenvolvidos na faculdade, outros por iniciativa própria para consolidar conhecimentos e evoluir tecnicamente.
-
-**Se você é recrutador**, fique à vontade para explorar os repositórios e entender como penso e codifico.
-
-## 📈 GitHub Stats
+## 🛠️ STACK TÉCNICA
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arianearchanjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianearchanjo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+
+### **Linguagens & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=js,ts,c,cs,react,nodejs,html,css&theme=dark" />
+
+### **Banco de Dados & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=postgresql,git,github,figma,vscode&theme=dark" />
+
+### **Idiomas**
+🇧🇷 Português (Nativo) • 🇺🇸 Inglês Técnico
+
+
+</div>
+
+---
+
+## 💼 EXPERIÊNCIA PROFISSIONAL
+
+### 🚀 **Prefeitura de Campina Grande do Sul** | *Estágio Front-End*
+**Fevereiro 2026 - Atual**
+
+- Desenvolvimento de aplicações web com **React**, **JavaScript** **HTML5** e **CSS3**
+- Criação de interfaces **responsivas** e **acessíveis**
+- Manutenção e **otimização de performance** de sistemas municipais
+- Trabalho colaborativo com **Git/GitHub** em equipe multidisciplinar
+
+### 💻 **Cidade Júnior** | *Estágio TI*
+**Maio 2025 - Dezembro 2025**
+
+- Desenvolvimento **full stack** de sistemas internos
+- Criação e otimização de consultas em **PostgreSQL**
+- Contribuição em **módulo financeiro** com análise de dados
+- **Documentação técnica** de sistemas e processos
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🎓 FORMAÇÃO ACADÊMICA
+
+<div align="center">
+
+| 🎓 Curso | 🏛️ Instituição | 📅 Status |
+|:---------|:---------------|:----------|
+| **Engenharia de Software** | Unibrasil | Cursando (2028) |
+| **Capacitação em Administração com TI** | Universidade Positivo | 2025 |
+| **Ensino Médio** | Colégio Estadual Campos Sales | 2024 |
+
+</div>
+
+---
+
+## 📚 CURSOS & CERTIFICAÇÕES
+
+<details open>
+<summary><b>🔥 Em Andamento (2025-2026)</b></summary>
+
+<br>
+
+- 🟡 **Bootcamp Node.js** - DIO (2026)
+- 🟡 **Formação Front End** - Udemy • 52h
+
+</details>
+
+<details>
+<summary><b>✅ Concluídos</b></summary>
+
+<br>
+
+- ✔️ **HTML5 e CSS3 Módulo 1** - Curso em Vídeo • 40h
+- ✔️ **JavaScript** - Curso em Vídeo • 40h
+- ✔️ **Algoritmo** - Curso em Vídeo • 40h
+- ✔️ **UX Design** - Alura e Santander
+- ✔️ **Bootcamp IA na Prática** - Caixa e DIO
+- ✔️ **Inteligência Artificial** - Curso em Vídeo • 40h
+- ✔️ **Bootcamp Front-End Santander** - DIO (2025)
+- ✔️ **UX Design: entenda a área da User Experience** (2025)
+- ✔️ **Fundamentos de Desenvolvimento Web** - IBM SkillsBuild • 12h (2024)
+- ✔️ **Imersão Dev com Google Gemini** - Alura (2024)
+- ✔️ **Fundamentos de TI: Hardware e Software** - Fundação Bradesco • 7h (2024)
+- ✔️ **Introdução a Redes de Computadores** - Fundação Bradesco • 15h (2024)
+- ✔️ **HTML e CSS** - Alura Start • 32h (2022)
+- ✔️ **Lógica de Programação** - Alura Start • 8h (2022)
+- ✔️ **Versionamento de Código com Git e GitHub** (2025)
+
+</details>
+
+---
+
+## 🏆 RECONHECIMENTOS
+
+<div align="center">
+
+| 🏅 Categoria | 🎯 Conquista |
+|:-------------|:-------------|
+| **📄 Pesquisa Científica** | Projeto publicado nos **Anais do EVINCI** - Unibrasil (2025) |
+| **📘 Tema da Pesquisa** | *"Oficinas de Tecnologia para Alunos do Ensino Fundamental"* |
+| **🥇 Competições** | **3x Menção Honrosa OBMEP** (2019, 2022, 2023) |
+| **👥 Liderança** | Representante de Turma • Monitora • Comissão de Formatura |
+</div>
+<div align="center">
+
+<!-- SEPARADOR TECH ROXO -->
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
+    </linearGradient>
+  </defs>
 </div>
 
 <div align="center">
+
+<!-- SEPARADOR TECH ROXO -->
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="2" fill="url(#grad3)" y="9"/>
+  <rect width="30" height="6" fill="#9400D3" x="calc(50% - 15)" y="7" rx="3">
+    <animate attributeName="width" values="30;50;30" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
+</div>
+
+## 📊 ANÁLISES DO GITHUB
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariane-archanjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianearchanjo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9400D3&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arianearchanjo&theme=tokyonight&hide_border=true&background=0d1117&stroke=9400D3&ring=9400D3&fire=9400D3&currStreakLabel=9400D3" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arianearchanjo&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=9400D3&line=9400D3&point=c9d1d9" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- SEPARADOR TECH ROXO -->
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="2" fill="url(#grad4)" y="9"/>
+  <rect width="30" height="6" fill="#9400D3" x="calc(50% - 15)" y="7" rx="3">
+    <animate attributeName="width" values="30;50;30" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
+</div>
+
+## 📫 CONTATO & REDES
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=9400D3)](https://www.linkedin.com/in/ariane-archanjo/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/arianearchanjo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9400D3)](mailto:ariane.archanjo1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9400D3?style=for-the-badge&logo=About.me&logoColor=white&color=4B0082)](https://seu-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+
+**💜 Inspired by Amy Farrah Fowler (The Big Bang Theory)**
+
+*"Never let anyone tell you you can't build, code or innovate.*  
+*Women belong in tech."*
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- RODAPÉ TECH ROXO -->
+<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0" />
+      <stop offset="20%" style="stop-color:#9400D3;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#6A0DAD;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#9400D3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0" />
+    </linearGradient>
+  </defs>
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arianearchanjo&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
-
-</div>
-
-## 🎓 Formação Acadêmica
-
-**Bacharelado em Engenharia de Software**  
-UniBrasil Centro Universitário • Março 2025 - Dezembro 2028
-
-**Capacitação Profissional em Administração com ênfase em Tecnologia**  
-Universidade Positivo • Dezembro 2023 - Outubro 2025
-
-### Certificações Relevantes
-
-- ✅ Versionamento de Código com Git e GitHub
-- ✅ Técnicas de Engenharia de Prompt
-- ✅ Fundamentos de Inteligência Artificial
-- ✅ Fundamentos de LLM
-- ✅ Introdução ao HTML na Prática
-- ✅ HTML5 e CSS3 Avançado
-- ✅ Letramento Digital
-
-## 🎯 O Que Estou Buscando
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#a855f7','primaryTextColor':'#fff','primaryBorderColor':'#7c3aed'}}}%%
-mindmap
-  root((Oportunidades<br/>de Estágio))
-    Desenvolvimento
-      Front-end
-      Back-end
-      Full-Stack
-    Dados
-      Banco de Dados
-      SQL
-      Análise
-    TI
-      Suporte a Sistemas
-      Infraestrutura
-      Documentação
-```
-
-</div>
-
-Estou em busca de uma **oportunidade de estágio em tecnologia** onde eu possa:
-
-- 🚀 Trabalhar com tecnologias modernas e aprender com profissionais experientes
-- 💼 Contribuir com entregas reais, mesmo sendo iniciante
-- 📚 Evoluir tecnicamente em um ambiente que valorize aprendizado contínuo
-- 🎯 Aplicar minha lógica, organização e comprometimento em projetos reais
-
-## 📫 Vamos Conversar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-archanjo/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arianearchanjo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane.archanjo1@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=arianearchanjo&label=Visualizações+do+Perfil&color=a855f7&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
-
-### 💙 Obrigada por visitar meu perfil!
-
-Estou sempre aberta a feedback, conexões e oportunidades de aprendizado.
-
-### 💡 *"Aprender fazendo, evoluir constantemente, entregar com qualidade"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18,14,12&height=80&section=footer" />
+  <!-- Linha principal -->
+  <rect x="0" y="25" width="100%" height="3" fill="url(#gradFooter)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Linhas paralelas -->
+  <line x1="30%" y1="15" x2="70%" y2="15" stroke="#9400D3" stroke-width="1" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="30%" y1="35" x2="70%" y2="35" stroke="#9400D3" stroke-width="1" opacity="0.6">
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Elementos decorativos -->
+  <circle cx="25%" cy="25" r="3" fill="#9400D3">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="50%" cy="25" r="4" fill="#6A0DAD">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="75%" cy="25" r="3" fill="#9400D3">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Texto -->
+  <text x="50%" y="60" font-family="'Courier New', monospace" font-size="13" fill="#9400D3" text-anchor="middle" opacity="0.9">
+    &lt;/&gt; Feito com dedicação por Ariane Archanjo
+  </text>
+</svg>
 
 </div>
