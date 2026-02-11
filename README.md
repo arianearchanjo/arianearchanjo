@@ -5,7 +5,7 @@
 
 <!-- BANNER TECH COM CÓDIGO BINÁRIO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=01001100+01001111+01000111+01001001+01000011+%E2%96%B8+01000011+01001111+01000100+01000101;Construindo+sistemas+escal%C3%A1veis;Resolvendo+problemas+complexos" alt="Tech Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=01001100+01001111+01000111+01001001+01000011+%E2%96%B8+01000011+01001111+01000100+01000101;Construindo+sistemas+e+Resolvendo+problemas+complexos" alt="Tech Banner" />
 </div>
 </div>
 
@@ -19,24 +19,9 @@
 
 **Foco atual:** Desenvolvimento Front-End com React e JavaScript, aprimorando habilidades em interfaces responsivas e experiência do usuário.
 
----
-
 <div align="center">
 
-<!-- SEPARADOR TECH ROXO -->
-<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
-      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="2" fill="url(#grad1)" y="9"/>
-  <rect width="30" height="6" fill="#9400D3" x="calc(50% - 15)" y="7" rx="3">
-    <animate attributeName="width" values="30;50;30" dur="2s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -58,7 +43,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
@@ -78,8 +67,6 @@
 - Contribuição em **módulo financeiro** com análise de dados
 - **Documentação técnica** de sistemas e processos
 
----
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
@@ -96,7 +83,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## 📚 CURSOS & CERTIFICAÇÕES
 
@@ -133,7 +124,11 @@
 
 </details>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## 🏆 RECONHECIMENTOS
 
@@ -145,36 +140,12 @@
 | **📘 Tema da Pesquisa** | *"Oficinas de Tecnologia para Alunos do Ensino Fundamental"* |
 | **🥇 Competições** | **3x Menção Honrosa OBMEP** (2019, 2022, 2023) |
 | **👥 Liderança** | Representante de Turma • Monitora • Comissão de Formatura |
-</div>
-<div align="center">
 
-<!-- SEPARADOR TECH ROXO -->
-<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
-      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
-    </linearGradient>
-  </defs>
 </div>
 
 <div align="center">
 
-<!-- SEPARADOR TECH ROXO -->
-<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
-      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="2" fill="url(#grad3)" y="9"/>
-  <rect width="30" height="6" fill="#9400D3" x="calc(50% - 15)" y="7" rx="3">
-    <animate attributeName="width" values="30;50;30" dur="2s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -191,24 +162,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-<!-- SEPARADOR TECH ROXO -->
-<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0.3" />
-      <stop offset="50%" style="stop-color:#9400D3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0.3" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="2" fill="url(#grad4)" y="9"/>
-  <rect width="30" height="6" fill="#9400D3" x="calc(50% - 15)" y="7" rx="3">
-    <animate attributeName="width" values="30;50;30" dur="2s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -226,7 +182,11 @@
 <img src="https://komarev.com/ghpvc/?username=ariane-archanjo&color=9400D3&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" alt="Profile views"/>
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 <div align="center">
 
@@ -238,50 +198,8 @@
 
 </div>
 
----
-
 <div align="center">
 
-<!-- RODAPÉ TECH ROXO -->
-<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:0" />
-      <stop offset="20%" style="stop-color:#9400D3;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#6A0DAD;stop-opacity:1" />
-      <stop offset="80%" style="stop-color:#9400D3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:0" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Linha principal -->
-  <rect x="0" y="25" width="100%" height="3" fill="url(#gradFooter)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- Linhas paralelas -->
-  <line x1="30%" y1="15" x2="70%" y2="15" stroke="#9400D3" stroke-width="1" opacity="0.6">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
-  </line>
-  <line x1="30%" y1="35" x2="70%" y2="35" stroke="#9400D3" stroke-width="1" opacity="0.6">
-    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/>
-  </line>
-  
-  <!-- Elementos decorativos -->
-  <circle cx="25%" cy="25" r="3" fill="#9400D3">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="50%" cy="25" r="4" fill="#6A0DAD">
-    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="75%" cy="25" r="3" fill="#9400D3">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Texto -->
-  <text x="50%" y="60" font-family="'Courier New', monospace" font-size="13" fill="#9400D3" text-anchor="middle" opacity="0.9">
-    &lt;/&gt; Feito com dedicação por Ariane Archanjo
-  </text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16,18,20&section=footer" width="100%"/>
 
 </div>
