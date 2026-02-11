@@ -1,12 +1,10 @@
 <div align="center">
   
-<!-- HEADER TECH MODERNO EM ROXO -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=ARIANE%20ARCHANJO&fontSize=38&fontColor=9400D3&fontAlignY=45&desc=Engenharia%20de%20Software%20%7C%20Estagi%C3%A1ria%20Front-End&descAlignY=65&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=160&text=ARIANE%20ARCHANJO&fontSize=42&fontColor=E0B0FF&fontAlignY=50&desc=Software%20Engineering%20%E2%80%A2%20Front-End%20Development&descSize=16&descAlignY=70&animation=fadeIn&stroke=9400D3&strokeWidth=2&color=0d1117&customColorList=0,0,0" width="100%"/>
 
-<!-- BANNER TECH COM CÓDIGO BINÁRIO -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=9400D3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=01001100+01001111+01000111+01001001+01000011+%E2%96%B8+01000011+01001111+01000100+01000101;Construindo+sistemas+e+Resolvendo+problemas+complexos" alt="Tech Banner" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=800&height=40&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+LOGIC+%E2%96%B8+CODE+%E2%96%B8+SYSTEMS+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;Building+scalable+solutions+through+software+engineering;01010011+01001111+01000110+01010100+01010111+01000001+01010010+01000101" alt="Tech Animation" />
+
 </div>
 
 ---
@@ -36,6 +34,7 @@
 ### **Banco de Dados & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=postgresql,git,github,figma,vscode&theme=dark" />
+
 
 ### **Idiomas**
 🇧🇷 Português (Nativo) • 🇺🇸 Inglês Técnico
@@ -153,12 +152,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariane-archanjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianearchanjo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9400D3&text_color=c9d1d9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arianearchanjo&theme=tokyonight&hide_border=true&background=0d1117&stroke=9400D3&ring=9400D3&fire=9400D3&currStreakLabel=9400D3" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arianearchanjo&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=9400D3&line=9400D3&point=c9d1d9" width="95%"/>
 
 </div>
 
