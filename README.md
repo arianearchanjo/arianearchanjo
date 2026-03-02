@@ -18,11 +18,11 @@
 
 ## 🎯 SOBRE MIM
 
-**Estudante de Engenharia de Software** (3º semestre) com experiência em **desenvolvimento front-end** e forte aptidão para **lógica de programação**. Atualmente estagiando em projetos municipais com React, JavaScript HTML e CSS, com vivência anterior em desenvolvimento de sistemas internos e banco de dados PostgreSQL.
+**Estudante de Engenharia de Software** (3º semestre) com experiência em **desenvolvimento front-end** e forte aptidão para **lógica de programação**. Atualmente estagiando em projetos municipais com Next.js, JavaScript HTML e CSS, com vivência anterior em desenvolvimento de sistemas internos e banco de dados PostgreSQL.
 
 **Minha abordagem:** Código limpo, performance otimizada e soluções escaláveis através de engenharia sólida e pensamento analítico.
 
-**Foco atual:** Desenvolvimento Front-End com React e JavaScript, aprimorando habilidades em interfaces responsivas e experiência do usuário.
+**Foco atual:** Desenvolvimento Front-End com React, Node.js, Next.js e JavaScript, aprimorando habilidades em interfaces responsivas e experiência do usuário.
 
 <div align="center">
 
@@ -57,10 +57,10 @@
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
-### 🚀 **Prefeitura de Campina Grande do Sul** | *Estágio Front-End*
+### 🚀 **Prefeitura de Campina Grande do Sul** | *Estágio Desenvolvimento Web*
 **Fevereiro 2026 - Atual**
 
-- Desenvolvimento de aplicações web com **React**, **JavaScript** **HTML5** e **CSS3**
+- Desenvolvimento de aplicações web com **Next.js**, **JavaScript** **HTML5** e **CSS3**
 - Criação de interfaces **responsivas** e **acessíveis**
 - Manutenção e **otimização de performance** de sistemas municipais
 - Trabalho colaborativo com **Git/GitHub** em equipe multidisciplinar
@@ -142,8 +142,8 @@
 
 | 🏅 Categoria | 🎯 Conquista |
 |:-------------|:-------------|
-| **📄 Pesquisa Científica** | Projeto publicado nos **Anais do EVINCI** - Unibrasil (2025) |
-| **📘 Tema da Pesquisa** | *"Oficinas de Tecnologia para Alunos do Ensino Fundamental"* |
+| **📄 Iniciação Científica** | Projeto publicado nos **Anais do EVINCI** - Unibrasil (2025) |
+| **📘 Tema do Projeto** | *"Oficinas de Tecnologia para Alunos do Ensino Fundamental"* |
 | **🥇 Competições** | **3x Menção Honrosa OBMEP** (2019, 2022, 2023) |
 | **👥 Liderança** | Representante de Turma • Monitora • Comissão de Formatura |
 
