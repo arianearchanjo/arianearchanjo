@@ -29,15 +29,21 @@ Gosto de código limpo, interfaces que fazem sentido e soluções que escalam.
 <div align="center">
 
 **Frontend**
-&nbsp;
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+<br>
 
 **Backend & Banco de Dados**
-&nbsp;
+
 <img src="https://skillicons.dev/icons?i=nodejs,postgresql&theme=dark" />
 
+<br>
+
 **Ferramentas**
-&nbsp;
+
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 
 </div>
@@ -141,6 +147,7 @@ agora →  Construindo. Quebrando. Consertando. Evoluindo.
 
 <div align="center">
 
+<sub>*"Mulheres pertencem à tecnologia — e eu estou aqui para provar isso com código."*</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff2233&section=footer" />
 
