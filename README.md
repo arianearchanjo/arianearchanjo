@@ -55,7 +55,7 @@ Gosto de código limpo, interfaces que fazem sentido e soluções que escalam.
 **Prefeitura de Campina Grande do Sul** — Estágio em Desenvolvimento Web
 `Fev 2026 → Atual`
 
-Desenvolvimento de aplicações com **Next.js**, JavaScript, HTML5 e CSS3. Foco em interfaces responsivas, acessíveis e com boa performance. Trabalho em equipe com Git/GitHub.
+Atuação no portal da prefeitura com foco em **layout e experiência do usuário**, utilizando **HTML**, **CSS** e **JavaScript**. Trabalho direto com melhorias visuais e de usabilidade em sistemas de acesso público.
 
 ---
 
@@ -146,8 +146,6 @@ agora →  Construindo. Quebrando. Consertando. Evoluindo.
 ---
 
 <div align="center">
-
-<sub>*"Mulheres pertencem à tecnologia — e eu estou aqui para provar isso com código."*</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff2233&section=footer" />
 
