@@ -31,8 +31,6 @@ Gosto de código limpo, interfaces que fazem sentido e soluções que escalam.
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 <br>
 
@@ -137,9 +135,9 @@ agora →  Construindo. Quebrando. Consertando. Evoluindo.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ariane--archanjo-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-archanjo/)
-[![GitHub](https://img.shields.io/badge/GitHub-arianearchanjo-1a0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arianearchanjo)
-[![Gmail](https://img.shields.io/badge/Gmail-ariane.archanjo1-cc0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane.archanjo1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-archanjo/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arianearchanjo)
+[![Gmail](https://img.shields.io/badge/Gmail-cc0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane.archanjo1@gmail.com)
 
 </div>
 
