@@ -8,8 +8,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1500&color=E8192C&center=true&vCenter=true&width=600&height=30&lines=Seu+negócio+merece+um+site+que+converte.;Clean+code.+Real+impact.+Always+evolving.;Freelancer+disponível+para+novos+projetos." />
-
 </div>
 
 ---
@@ -34,8 +32,6 @@ Atendo remotamente e desenvolvo:
 - **Landing pages** — foco em conversão, CTA estratégico e carregamento rápido
 - **Sites para pequenos negócios** — cardápios, catálogos, integração com WhatsApp
 - **Interfaces front-end** — sistemas web, dashboards e aplicações com HTML/CSS/JS ou React
-
-> 📲 Orçamento sem compromisso: [WhatsApp](https://wa.me/5541997392226) · Resposta em até 24h
 
 ---
 
