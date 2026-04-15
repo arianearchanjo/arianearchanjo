@@ -76,7 +76,7 @@ Atuação no módulo financeiro de sistema interno. Criação e otimização de 
 ---
 
 **Freelancer** — Desenvolvimento Web
-`2025 → Atual`
+`2026 → Atual`
 
 Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanais, negócios de alimentação e outros. Projetos com escopo definido, código documentado e comunicação direta durante todo o processo.
 
@@ -93,18 +93,6 @@ Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanai
 | 📦 Sistema de Controle de Estoque | CRUD completo com persistência em CSV e relatórios gerenciais | C# · .NET |
 | 🎮 Jogo da Velha — Terminal | PvP e PvC com dificuldades e ranking dinâmico | C# · .NET |
 | 🌐 Wikipedia Redesign | Recriação modernizada com foco em hierarquia visual | HTML · CSS |
-
----
-
-## Linha do Tempo
-
-```
-2022  →  HTML e CSS. "Isso aqui muda de cor?"
-2024  →  JavaScript, lógica, Git. As peças começam a encaixar.
-2025  →  Primeiro sistema real. Primeiro banco de dados. Primeiro cliente freelance. Primeira publicação científica.
-2026  →  Interfaces para gestão pública com Next.js.
-agora →  Construindo. Quebrando. Consertando. Evoluindo.
-```
 
 ---
 
