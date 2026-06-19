@@ -14,11 +14,11 @@
 
 ## Sobre
 
-Desenvolvedora front-end com experiência em projetos reais — não só tutoriais. Estou no 3º semestre de Engenharia de Software e já passei por estágios onde o código precisava funcionar de verdade, para pessoas de verdade.
+Desenvolvedora front-end com experiência em projetos reais.
 
 Hoje atuo na **Prefeitura de Campina Grande do Sul**, desenvolvendo sistemas municipais com **Next.js**. Antes disso, construí sistemas internos com banco de dados **PostgreSQL** na **Cidade Júnior**.
 
-Além da atuação profissional, trabalho como **freelancer** — desenvolvendo sites institucionais, landing pages e interfaces para pequenos negócios. Entrego o que foi combinado, no prazo, com código limpo e comunicação direta.
+Além da atuação profissional, trabalho como **freelancer** — desenvolvendo sites institucionais, landing pages e interfaces. Entrego o que foi combinado, no prazo, com código limpo e comunicação direta.
 
 Gosto de código limpo, interfaces que fazem sentido e soluções que escalam.
 
