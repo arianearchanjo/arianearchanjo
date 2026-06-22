@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0f2e,50:1a3a6e,100:2563eb&section=header&text=Ariane%20Archanjo&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Front-End%20Developer%20%E2%80%A2%20UX%20%E2%80%A2%20Engenharia%20de%20Software&descAlignY=75&descSize=15&descColor=bfdbfe" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=0:060d1f,50:0f2952,100:1a3a6e&section=header&text=Ariane%20Archanjo&fontSize=48&fontColor=e2e8f0&fontAlignY=55&animation=blinking&desc=front-end%20developer%20%E2%80%A2%20ux%20%E2%80%A2%20software%20engineering&descAlignY=78&descSize=13&descColor=60a5fa" />
 
 </div>
 
@@ -8,100 +8,96 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Transformando+ideias+em+interfaces+funcionais+%E2%9C%A8;Next.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL;Disponível+para+Freelance+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=580&lines=building+interfaces+that+make+sense.;next.js+%7C+react+%7C+typescript+%7C+postgresql;focused+on+accessibility+and+clean+code.;available+for+freelance+projects.)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 👩‍💻 Sobre
-
-Desenvolvedora **Front-End** e estudante de **Engenharia de Software** na UniBrasil (bolsista integral). Foco em interfaces acessíveis, performáticas e com boa experiência do usuário.
-
-Hoje atuo na **Prefeitura de Campina Grande do Sul**, desenvolvendo portais municipais e aplicações com **Next.js**. Antes disso, atuei na **Cidade Júnior** com módulo financeiro, consultas **PostgreSQL** e documentação técnica.
-
-Além da atuação profissional, sou **freelancer** — entrego sites institucionais, landing pages e interfaces com código limpo, no prazo e com comunicação direta.
+<br>
 
 ---
 
-## 💼 Freelance — ariarch.dev
-
-Atendo remotamente e desenvolvo:
-
-- **Sites institucionais** — presença digital profissional, responsiva e otimizada para SEO
-- **Landing pages** — foco em conversão, CTA estratégico e carregamento rápido
-- **Sites para pequenos negócios** — cardápios digitais, catálogos, integração com WhatsApp
-- **Interfaces front-end** — sistemas web, dashboards e aplicações com HTML/CSS/JS ou React
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
-## 🛠 Stack
+## sobre
+
+Desenvolvedora front-end e estudante de Engenharia de Software na UniBrasil. Foco na criação de interfaces acessíveis, intuitivas e alinhadas às melhores práticas de UX — combinando design e tecnologia para desenvolver soluções funcionais e visualmente consistentes.
+
+Atualmente atuo na **Prefeitura de Campina Grande do Sul**, no desenvolvimento de portais institucionais e aplicações em Next.js. Anteriormente na **Cidade Júnior**, com módulo financeiro, consultas PostgreSQL e documentação técnica.
+
+> Por atuar no setor público, a maior parte dos projetos recentes está sujeita a termos de governança e não pode ser exibida publicamente.
+
+---
+
+## stack
 
 <div align="center">
 
-**Frontend**
+**frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
 
-**Backend & Banco de Dados**
+**backend & database**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,cs,php,postgresql&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=nodejs,cs,php,postgresql&theme=dark" />
 
-**Ferramentas & Design**
+**tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 💼 Experiência
+## experiência
 
-**Prefeitura de Campina Grande do Sul** — Estágio em Desenvolvimento Web
-`Fev 2026 → Atual`
+```
+Prefeitura de Campina Grande do Sul  ·  Desenvolvedora Web  ·  fev 2026 → atual
+```
+Melhorias de layout e UX no portal municipal com Next.js. Foco em acessibilidade (WCAG AA)
+e usabilidade em sistemas públicos digitais.
 
-Desenvolvimento e melhoria de layout/UX no portal municipal com **Next.js**, HTML, CSS e JavaScript. Foco em acessibilidade (WCAG AA) e usabilidade em sistemas públicos.
+```
+Freelancer  ·  Desenvolvimento Web  ·  2026 → atual
+```
+Sites institucionais, landing pages de alta conversão, cardápios digitais e interfaces
+sob medida para negócios locais.
+
+```
+Cidade Júnior  ·  Estagiária em TI  ·  mai 2025 → dez 2025
+```
+Módulo financeiro do sistema interno. Consultas complexas em PostgreSQL, otimizações
+e documentação técnica de processos.
 
 ---
 
-**Cidade Júnior** — Estágio em TI
-`Mai 2025 → Dez 2025`
+## projetos selecionados
 
-Atuação no módulo financeiro de sistema interno: criação e otimização de consultas **PostgreSQL**, implementação de funcionalidades e documentação técnica.
-
----
-
-**Freelancer** — Desenvolvimento Web
-`2026 → Atual`
-
-Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanais, negócios de alimentação e outros. Escopo definido, código documentado e comunicação direta durante todo o processo.
-
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
+| projeto | descrição | stack |
 |:--------|:----------|:------|
-| 🎨 [Cantinho do Amigurumi](https://cantinho-amigurumi.netlify.app/) | Site institucional com catálogo, galeria e pedidos via WhatsApp | HTML · CSS · JS · Bootstrap · Netlify |
-| 🍡 [Churros Mania](https://churrosmania.netlify.app/) | Cardápio digital com carrinho e pedido formatado via WhatsApp | HTML · CSS · JS · WhatsApp API |
-| 🚗 UniCaronas | Plataforma fullstack com autenticação JWT e chat em tempo real | Node.js · Express · PostgreSQL |
-| 🔍 GitHub Profile Search | App React consumindo API pública do GitHub | React · Tailwind · Vite |
-| 📦 Sistema de Controle de Estoque | CRUD completo com persistência em CSV e relatórios gerenciais | C# · .NET |
-| 🎮 Jogo da Velha — Terminal | PvP e PvC com dificuldades e ranking dinâmico | C# · .NET |
-| 🌐 Wikipedia Redesign | Recriação modernizada com foco em hierarquia visual | HTML · CSS |
+| [Narrativa Blog](https://narrativa.blog/) | plataforma CMS com painel admin, RBAC e portal público otimizado para SEO | Next.js 15 · TypeScript · Prisma · Better-Auth |
+| [UniCaronas](https://unicaronas-5qtg.vercel.app/) | caronas universitárias com chat em tempo real e validação de e-mail institucional | Node.js · PostgreSQL · React · JWT |
+| [Cantinho do Amigurumi](https://cantinho-amigurumi.netlify.app/) | catálogo digital com galeria masonry, lightbox e pedidos via WhatsApp | React · Bootstrap 5 · WhatsApp API |
+| [Churros Mania](https://churrosmania.netlify.app/) | cardápio interativo com carrinho e envio de pedidos via WhatsApp | HTML · CSS · JavaScript · WhatsApp API |
 
 ---
 
-## 🎓 Formação & Certificações
+## formação
 
-**Engenharia de Software** — Unibrasil *(2025 → 2028)* · Bolsista Integral
-**Capacitação em Administração com TI** — Universidade Positivo *(2025)*
+**Engenharia de Software** — Unibrasil · 2025 → 2028
+
+**Capacitação em Administração com TI** — Universidade Positivo · 2025
 
 <details>
-<summary><b>📋 Certificações concluídas</b></summary>
+<summary>certificações concluídas</summary>
 <br>
 
-| Curso | Plataforma | Carga |
+| curso | plataforma | carga |
 |:------|:-----------|:------|
 | HTML e CSS | Alura Start | 32h |
 | Lógica de Programação | Alura Start | 8h |
@@ -120,50 +116,49 @@ Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanai
 </details>
 
 <details>
-<summary><b>🔴 Em andamento (2026)</b></summary>
+<summary>em andamento · 2026</summary>
 <br>
 
-- **Bootcamp Node.js** — DIO
-- **Formação Front End** — Udemy (52h)
+- Bootcamp Node.js — DIO
+- Formação Front End — Udemy · 52h
 
 </details>
 
 ---
 
-## 🏅 Reconhecimentos
+## reconhecimentos
 
-| Conquista | Detalhe |
+| conquista | detalhe |
 |:----------|:--------|
-| 📄 Iniciação Científica | Artigo publicado nos Anais do EVINCI — Unibrasil (2025) |
-| 🥇 OBMEP | 3× Menção Honrosa (2019, 2022, 2023) |
-| 👥 Liderança | Representante de turma · Monitora · Comissão de Formatura |
-| 🎓 Bolsista | Bolsa integral — Unibrasil |
+| Iniciação Científica | artigo publicado nos Anais do EVINCI — Unibrasil 2025 |
+| OBMEP | 3x Mencão Honrosa — 2019, 2022, 2023 |
+| Liderança | representante de turma · monitora · comissão de formatura |
 
 ---
 
-## 📊 GitHub
+## github
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arianearchanjo&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=2563eb&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=ffffff&dates=aaaaaa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arianearchanjo&theme=dark&hide_border=true&background=060d1f&stroke=1e3a5f&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=e2e8f0&dates=64748b&sideNums=3b82f6&currStreakNum=60a5fa" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arianearchanjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=e2e8f0" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianearchanjo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=arianearchanjo&show_icons=true&hide_border=true&bg_color=060d1f&title_color=3b82f6&icon_color=60a5fa&text_color=e2e8f0" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianearchanjo&layout=compact&hide_border=true&bg_color=060d1f&title_color=3b82f6&text_color=e2e8f0&langs_count=6" height="160" />
 
 </div>
 
 ---
 
-## 📬 Contato
+## contato
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1d4ed8?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541997392226)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-archanjo/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arianearchanjo)
-[![Gmail](https://img.shields.io/badge/Gmail-1e40af?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane.archanjo1@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230f2952?style=for-the-badge&logo=whatsapp&logoColor=60a5fa)](https://wa.me/5541997392226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230f2952?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/ariane-archanjo/)
+[![GitHub](https://img.shields.io/badge/GitHub-%230f2952?style=for-the-badge&logo=github&logoColor=60a5fa)](https://github.com/arianearchanjo)
+[![Gmail](https://img.shields.io/badge/Gmail-%230f2952?style=for-the-badge&logo=gmail&logoColor=60a5fa)](mailto:ariane.archanjo1@gmail.com)
 
 </div>
 
@@ -171,8 +166,6 @@ Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanai
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arianearchanjo.arianearchanjo&color=2563eb)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563eb,100:0a0f2e&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=0:1a3a6e,100:060d1f&section=footer&animation=blinking" />
 
 </div>
