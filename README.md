@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=0:060d1f,50:0f2952,100:1a3a6e&section=header&text=Ariane%20Archanjo&fontSize=48&fontColor=e2e8f0&fontAlignY=55&animation=blinking&desc=front-end%20developer%20%E2%80%A2%20ux%20%E2%80%A2%20software%20engineering&descAlignY=78&descSize=13&descColor=60a5fa" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:060d1f,50:0f2952,100:2563eb&section=header&text=Ariane%20Archanjo&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Front-End%20Developer%20%E2%80%A2%20UX%20%E2%80%A2%20Software%20Engineering&descAlignY=65&descSize=14&descColor=93c5fd" />
 
 <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=580&lines=building+interfaces+that+make+sense.;next.js+%7C+react+%7C+typescript+%7C+postgresql;focused+on+accessibility+and+clean+code.;available+for+freelance+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=580&lines=Building+interfaces+that+make+sense.;Next.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL;Focused+on+accessibility+and+clean+code.;Available+for+freelance+projects.)](https://git.io/typing-svg)
 
 </div>
-
-<br>
 
 ---
 
@@ -24,7 +18,7 @@
 
 ---
 
-## sobre
+## Sobre
 
 Desenvolvedora front-end e estudante de Engenharia de Software na UniBrasil. Foco na criação de interfaces acessíveis, intuitivas e alinhadas às melhores práticas de UX — combinando design e tecnologia para desenvolver soluções funcionais e visualmente consistentes.
 
@@ -34,19 +28,19 @@ Atualmente atuo na **Prefeitura de Campina Grande do Sul**, no desenvolvimento d
 
 ---
 
-## stack
+## Stack
 
 <div align="center">
 
-**frontend**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
 
-**backend & database**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,cs,php,postgresql&theme=dark" />
 
-**tools**
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 
@@ -54,50 +48,50 @@ Atualmente atuo na **Prefeitura de Campina Grande do Sul**, no desenvolvimento d
 
 ---
 
-## experiência
+## Experiência
 
 ```
-Prefeitura de Campina Grande do Sul  ·  Desenvolvedora Web  ·  fev 2026 → atual
+Prefeitura de Campina Grande do Sul  ·  Desenvolvedora Web  ·  Fev 2026 → Atual
 ```
 Melhorias de layout e UX no portal municipal com Next.js. Foco em acessibilidade (WCAG AA)
 e usabilidade em sistemas públicos digitais.
 
 ```
-Freelancer  ·  Desenvolvimento Web  ·  2026 → atual
+Freelancer  ·  Desenvolvimento Web  ·  2026 → Atual
 ```
 Sites institucionais, landing pages de alta conversão, cardápios digitais e interfaces
 sob medida para negócios locais.
 
 ```
-Cidade Júnior  ·  Estagiária em TI  ·  mai 2025 → dez 2025
+Cidade Júnior  ·  Estagiária em TI  ·  Mai 2025 → Dez 2025
 ```
 Módulo financeiro do sistema interno. Consultas complexas em PostgreSQL, otimizações
 e documentação técnica de processos.
 
 ---
 
-## projetos selecionados
+## Projetos Selecionados
 
-| projeto | descrição | stack |
+| Projeto | Descrição | Stack |
 |:--------|:----------|:------|
-| [Narrativa Blog](https://narrativa.blog/) | plataforma CMS com painel admin, RBAC e portal público otimizado para SEO | Next.js 15 · TypeScript · Prisma · Better-Auth |
-| [UniCaronas](https://unicaronas-5qtg.vercel.app/) | caronas universitárias com chat em tempo real e validação de e-mail institucional | Node.js · PostgreSQL · React · JWT |
-| [Cantinho do Amigurumi](https://cantinho-amigurumi.netlify.app/) | catálogo digital com galeria masonry, lightbox e pedidos via WhatsApp | React · Bootstrap 5 · WhatsApp API |
-| [Churros Mania](https://churrosmania.netlify.app/) | cardápio interativo com carrinho e envio de pedidos via WhatsApp | HTML · CSS · JavaScript · WhatsApp API |
+| [Narrativa Blog](https://narrativa.blog/) | Plataforma CMS com painel admin, RBAC e portal público otimizado para SEO | Next.js 15 · TypeScript · Prisma · Better-Auth |
+| [UniCaronas](https://unicaronas-5qtg.vercel.app/) | Caronas universitárias com chat em tempo real e validação de e-mail institucional | Node.js · PostgreSQL · React · JWT |
+| [Cantinho do Amigurumi](https://cantinho-amigurumi.netlify.app/) | Catálogo digital com galeria masonry, lightbox e pedidos via WhatsApp | React · Bootstrap 5 · WhatsApp API |
+| [Churros Mania](https://churrosmania.netlify.app/) | Cardápio interativo com carrinho e envio de pedidos via WhatsApp | HTML · CSS · JavaScript · WhatsApp API |
 
 ---
 
-## formação
+## Formação
 
 **Engenharia de Software** — Unibrasil · 2025 → 2028
 
 **Capacitação em Administração com TI** — Universidade Positivo · 2025
 
 <details>
-<summary>certificações concluídas</summary>
+<summary><b>Certificações Concluídas</b></summary>
 <br>
 
-| curso | plataforma | carga |
+| Curso | Plataforma | Carga |
 |:------|:-----------|:------|
 | HTML e CSS | Alura Start | 32h |
 | Lógica de Programação | Alura Start | 8h |
@@ -116,7 +110,7 @@ e documentação técnica de processos.
 </details>
 
 <details>
-<summary>em andamento · 2026</summary>
+<summary><b>Em Andamento · 2026</b></summary>
 <br>
 
 - Bootcamp Node.js — DIO
@@ -126,17 +120,17 @@ e documentação técnica de processos.
 
 ---
 
-## reconhecimentos
+## Reconhecimentos
 
-| conquista | detalhe |
+| Conquista | Detalhe |
 |:----------|:--------|
-| Iniciação Científica | artigo publicado nos Anais do EVINCI — Unibrasil 2025 |
-| OBMEP | 3x Mencão Honrosa — 2019, 2022, 2023 |
-| Liderança | representante de turma · monitora · comissão de formatura |
+| Iniciação Científica | Artigo publicado nos Anais do EVINCI — Unibrasil 2025 |
+| OBMEP | 3x Menção Honrosa — 2019, 2022, 2023 |
+| Liderança | Representante de turma · Monitora · Comissão de Formatura |
 
 ---
 
-## github
+## GitHub
 
 <div align="center">
 
@@ -151,7 +145,7 @@ e documentação técnica de processos.
 
 ---
 
-## contato
+## Contato
 
 <div align="center">
 
@@ -166,6 +160,6 @@ e documentação técnica de processos.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=0:1a3a6e,100:060d1f&section=footer&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563eb,100:060d1f&section=footer&animation=fadeIn" />
 
 </div>
