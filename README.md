@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=e8192c&section=header&text=Ariane%20Archanjo&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Front-End%20Developer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20Software%20Engineering%20Student&descAlignY=85&descSize=13&descColor=ffcccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0f2e,50:1a3a6e,100:2563eb&section=header&text=Ariane%20Archanjo&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Front-End%20Developer%20%E2%80%A2%20UX%20%E2%80%A2%20Engenharia%20de%20Software&descAlignY=75&descSize=15&descColor=bfdbfe" />
 
 </div>
 
@@ -8,19 +8,19 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Transformando+ideias+em+interfaces+funcionais+%E2%9C%A8;Next.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL;Disponível+para+Freelance+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## Sobre
+## 👩‍💻 Sobre
 
-Desenvolvedora front-end com experiência em projetos reais.
+Desenvolvedora **Front-End** e estudante de **Engenharia de Software** na UniBrasil (bolsista integral). Foco em interfaces acessíveis, performáticas e com boa experiência do usuário.
 
-Hoje atuo na **Prefeitura de Campina Grande do Sul**, desenvolvendo sistemas municipais com **Next.js**. Antes disso, construí sistemas internos com banco de dados **PostgreSQL** na **Cidade Júnior**.
+Hoje atuo na **Prefeitura de Campina Grande do Sul**, desenvolvendo portais municipais e aplicações com **Next.js**. Antes disso, atuei na **Cidade Júnior** com módulo financeiro, consultas **PostgreSQL** e documentação técnica.
 
-Além da atuação profissional, trabalho como **freelancer** — desenvolvendo sites institucionais, landing pages e interfaces. Entrego o que foi combinado, no prazo, com código limpo e comunicação direta.
-
-Gosto de código limpo, interfaces que fazem sentido e soluções que escalam.
+Além da atuação profissional, sou **freelancer** — entrego sites institucionais, landing pages e interfaces com código limpo, no prazo e com comunicação direta.
 
 ---
 
@@ -30,59 +30,55 @@ Atendo remotamente e desenvolvo:
 
 - **Sites institucionais** — presença digital profissional, responsiva e otimizada para SEO
 - **Landing pages** — foco em conversão, CTA estratégico e carregamento rápido
-- **Sites para pequenos negócios** — cardápios, catálogos, integração com WhatsApp
+- **Sites para pequenos negócios** — cardápios digitais, catálogos, integração com WhatsApp
 - **Interfaces front-end** — sistemas web, dashboards e aplicações com HTML/CSS/JS ou React
 
 ---
 
-## Stack
+## 🛠 Stack
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" />
-
-<br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 **Backend & Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=nodejs,cs,php,postgresql&theme=dark" />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,cs,php,postgresql&theme=dark)](https://skillicons.dev)
 
-<br>
+**Ferramentas & Design**
 
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Experiência
+## 💼 Experiência
 
 **Prefeitura de Campina Grande do Sul** — Estágio em Desenvolvimento Web
 `Fev 2026 → Atual`
 
-Desenvolvimento de melhorias de layout e UX no portal municipal. Atuação direta em sistemas públicos com **Next.js**, HTML, CSS e JavaScript, com foco em acessibilidade e usabilidade.
+Desenvolvimento e melhoria de layout/UX no portal municipal com **Next.js**, HTML, CSS e JavaScript. Foco em acessibilidade (WCAG AA) e usabilidade em sistemas públicos.
 
 ---
 
 **Cidade Júnior** — Estágio em TI
 `Mai 2025 → Dez 2025`
 
-Atuação no módulo financeiro de sistema interno. Criação e otimização de consultas **PostgreSQL**, implementação de funcionalidades e documentação técnica.
+Atuação no módulo financeiro de sistema interno: criação e otimização de consultas **PostgreSQL**, implementação de funcionalidades e documentação técnica.
 
 ---
 
 **Freelancer** — Desenvolvimento Web
 `2026 → Atual`
 
-Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanais, negócios de alimentação e outros. Projetos com escopo definido, código documentado e comunicação direta durante todo o processo.
+Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanais, negócios de alimentação e outros. Escopo definido, código documentado e comunicação direta durante todo o processo.
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |:--------|:----------|:------|
@@ -96,13 +92,13 @@ Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanai
 
 ---
 
-## Formação & Certificações
+## 🎓 Formação & Certificações
 
-**Engenharia de Software** — Unibrasil *(2028)* · Bolsista Integral
+**Engenharia de Software** — Unibrasil *(2025 → 2028)* · Bolsista Integral
 **Capacitação em Administração com TI** — Universidade Positivo *(2025)*
 
 <details>
-<summary><b>Certificações concluídas</b></summary>
+<summary><b>📋 Certificações concluídas</b></summary>
 <br>
 
 | Curso | Plataforma | Carga |
@@ -124,44 +120,50 @@ Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanai
 </details>
 
 <details>
-<summary><b>Em andamento (2026)</b></summary>
+<summary><b>🔴 Em andamento (2026)</b></summary>
 <br>
 
-- 🔴 **Bootcamp Node.js** — DIO
-- 🔴 **Formação Front End** — Udemy (52h)
+- **Bootcamp Node.js** — DIO
+- **Formação Front End** — Udemy (52h)
 
 </details>
 
 ---
 
-## Reconhecimentos
+## 🏅 Reconhecimentos
 
 | Conquista | Detalhe |
 |:----------|:--------|
-| 📄 Iniciação Científica | Projeto publicado nos Anais do EVINCI — Unibrasil (2025) |
-| 🏅 OBMEP | 3x Menção Honrosa (2019, 2022, 2023) |
+| 📄 Iniciação Científica | Artigo publicado nos Anais do EVINCI — Unibrasil (2025) |
+| 🥇 OBMEP | 3× Menção Honrosa (2019, 2022, 2023) |
 | 👥 Liderança | Representante de turma · Monitora · Comissão de Formatura |
+| 🎓 Bolsista | Bolsa integral — Unibrasil |
 
 ---
 
-## GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arianearchanjo&theme=dark&hide_border=true&background=0d1117&stroke=e8192c&ring=e8192c&fire=e8192c&currStreakLabel=e8192c&sideLabels=ffffff&dates=aaaaaa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arianearchanjo&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=2563eb&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=ffffff&dates=aaaaaa" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arianearchanjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=e2e8f0" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianearchanjo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0" height="165" />
 
 </div>
 
 ---
 
-## Contato
+## 📬 Contato
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-cc0000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541997392226)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-archanjo/)
-[![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arianearchanjo)
-[![Gmail](https://img.shields.io/badge/Gmail-cc0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane.archanjo1@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1d4ed8?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541997392226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-archanjo/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arianearchanjo)
+[![Gmail](https://img.shields.io/badge/Gmail-1e40af?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane.archanjo1@gmail.com)
 
 </div>
 
@@ -169,6 +171,8 @@ Desenvolvimento de sites e interfaces para clientes reais — ateliês artesanai
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=e8192c&section=footer" />
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arianearchanjo.arianearchanjo&color=2563eb)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563eb,100:0a0f2e&section=footer&animation=fadeIn" />
 
 </div>
