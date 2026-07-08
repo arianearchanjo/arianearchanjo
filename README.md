@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=580&lines=Building+interfaces+that+make+sense.;Next.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL;Focused+on+accessibility+and+clean+code.;Available+for+freelance+projects.)](https://git.io/typing-svg)
 
+<br>
+
+**🔗 [→ Acesse meu Portfólio](https://arianearchanjo.github.io/portifolio/)**
+
 </div>
 
 ---
@@ -20,9 +24,14 @@
 
 ## Sobre
 
+**Código limpo. Impacto real.**
+
 Desenvolvedora front-end e estudante de Engenharia de Software na UniBrasil. Foco na criação de interfaces acessíveis, intuitivas e alinhadas às melhores práticas de UX — combinando design e tecnologia para desenvolver soluções funcionais e visualmente consistentes.
 
 Atualmente atuo na **Prefeitura de Campina Grande do Sul**, no desenvolvimento de portais institucionais e aplicações em Next.js. Anteriormente na **Cidade Júnior**, com módulo financeiro, consultas PostgreSQL e documentação técnica.
+
+- **Acessibilidade como Prioridade** — Todos os projetos seguem as diretrizes WCAG AA, garantindo interfaces utilizáveis por todas as pessoas.
+- **Foco na Experiência do Usuário** — Cada interface é pensada da perspectiva de quem usa: navegação intuitiva, micro-interações sutis e design que comunica com clareza.
 
 > Por atuar no setor público, a maior parte dos projetos recentes está sujeita a termos de governança e não pode ser exibida publicamente.
 
@@ -43,6 +52,8 @@ Atualmente atuo na **Prefeitura de Campina Grande do Sul**, no desenvolvimento d
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+
+**Também utilizo:** Prisma ORM · Better-Auth · JWT · CSS Modules
 
 </div>
 
@@ -126,7 +137,7 @@ e documentação técnica de processos.
 |:----------|:--------|
 | Iniciação Científica | Artigo publicado nos Anais do EVINCI — Unibrasil 2025 |
 | OBMEP | 3x Menção Honrosa — 2019, 2022, 2023 |
-| Liderança | Representante de turma · Monitora · Comissão de Formatura |
+| Liderança | Representante de turma · Monitora de Turma (Ens. Fundamental e Médio) · Comissão de Formatura |
 
 ---
 
